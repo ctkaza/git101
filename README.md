@@ -1,3 +1,3 @@
 # git101
 sample git repo
-This read me
+This is README
